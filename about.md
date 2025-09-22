@@ -2,7 +2,7 @@
 
 ## Background
 
-I am a graduate student at the University of Buffalo's School of Engineering and Applied Sciences, pursuing advanced studies in Artificial Intelligence. Previously, I worked as a software engineer at ngenux solutions, where I gained valuable experience in software development and technical problem-solving.
+I am a graduate student at the University at Buffalo, pursuing advanced studies in Artificial Intelligence. 
 
 ## Interests in Artificial Intelligence
 
